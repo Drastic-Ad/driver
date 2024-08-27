@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "887654664563",
+    "firebase_url": "https://chat-23051-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chat-23051",
+    "storage_bucket": "chat-23051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887654664563:android:57e057c37b7ae6a7161d06",
+        "android_client_info": {
+          "package_name": "com.balaji.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3FqLwsImSEsxP0CgS9pSo9D0aDjZOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887654664563:android:bbd8090913ca8973161d06",
+        "android_client_info": {
+          "package_name": "com.balaji.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3FqLwsImSEsxP0CgS9pSo9D0aDjZOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887654664563:android:9523a295110d1427161d06",
+        "android_client_info": {
+          "package_name": "com.balaji.restaurant"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa3FqLwsImSEsxP0CgS9pSo9D0aDjZOxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
